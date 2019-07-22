@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate snapshots 1`] = `
+"<div>
+  Parent
+  <div>This text should not be appeared</div></div>"
+`;
+
+exports[`generate snapshots 2`] = `
+"<div>
+  Parent
+  <div>This text should not be appeared</div></div>"
+`;
